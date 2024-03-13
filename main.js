@@ -1,4 +1,6 @@
-var favouriteColour = "red";
-console.log(favouriteColour);
-var favouriteColour = "green";
-console.log(favouriteColour);
+// Question1
+console.log("Hellow World");
+// Question2
+var myName = "Ali";
+var message = "is a good person";
+console.log(myName + " " + message);
